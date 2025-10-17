@@ -35,8 +35,8 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niraj-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/henilpatel06)
-[![GitHub](https://img.shields.io/badge/GitHub-Niraj-black?style=flat-square&logo=github)](https://github.com/Henil29/Henil29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/henilpatel06)
+[![GitHub](https://img.shields.io/badge/GitHub-Henil-black?style=flat-square&logo=github)](https://github.com/Henil29/Henil29)
 
 [![Email](https://img.shields.io/badge/Email-henil2471382%40gmail.com-red?style=flat-square&logo=gmail)](mailto:henil2471382@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-henilp.dev-blueviolet?style=flat-square&logo=vercel)](https://henilp.dev)
