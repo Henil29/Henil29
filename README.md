@@ -41,7 +41,6 @@
 ## 🖼️ All assets
 
 <p>
-  <img src="./assets/chatgpt.png" alt="ChatGPT" width="40" height="40"/>
   <img src="./assets/html.png" alt="HTML" width="40" height="40"/>
   <img src="./assets/css.png" alt="CSS" width="40" height="40"/>
   <img src="./assets/docker.png" alt="Docker" width="40" height="40"/>
@@ -60,4 +59,5 @@
   <img src="./assets/react.png" alt="React JS" width="40" height="40"/>
   <img src="./assets/tailwind.png" alt="Tailwind CSS" width="40" height="40"/>
   <img src="./assets/visual-studio-code.png" alt="VS Code" width="40" height="40"/>
+  <img src="./assets/chatgpt.png" alt="ChatGPT" width="40" height="40"/>
 </p>
